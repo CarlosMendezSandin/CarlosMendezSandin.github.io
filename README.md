@@ -1,4 +1,4 @@
-# Responsive CV Carlos
+# Responsive CV 
 
 - Responsive Personal CV Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
