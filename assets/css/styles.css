@@ -547,17 +547,30 @@ img {
   width: 10%;
 }
 /*================================ BACKEND ================================*/
+.skills__java{
+  width: 20%;
+}
 .skills__php{
   width: 20%;
 }
 .skills__node{
-  width: 20%;
-}
-.skills__cdmon{
   width: 15%;
 }
-.skills__java{
-  width: 10%;
+.skills__sql{
+  width: 20%;
+}
+/*================================ TOOLS ================================*/
+.skills__git{
+  width: 30%;
+}
+.skills__github{
+  width: 40%;
+}
+.skills__docker{
+  width: 20%;
+}
+.skills__apache{
+  width: 20%;
 }
 /*================================ DESIGNER ================================*/
 .skills__figma{
